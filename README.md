@@ -1,20 +1,18 @@
-# {Nome do Projeto}
+# HUB Start de projeto
 
-{resumo}
+Repositório para testes HUB, entendimento de fluxo
 
 ### Linguagens utilizadas:
-  - {linguagem} (versão {versão})
+  - html (versão 5)
   
 ### Dependências do projeto: 
-  - {dependência} (versão {versão})
 
 ### Arquitetura:
-  - {arquitetura}
 
 ### Versão
-  - {versão} ({Data do Release})
+  -  ()
 
 ### Release notes
 
-  - **{versão}**:
-    - {Conteúdo da versão}.
+  - ****:
+    - .
