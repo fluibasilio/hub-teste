@@ -201,3 +201,61 @@
   margin: 11px 10px 0 16px;
   float: left;
 }
+
+#controle400 .infos .infos-title {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos-title span {
+  color: #ff9900;
+}
+#controle400 .infos .row {
+  width: 282px;
+  height: 1px;
+  background-color: #7b698b;
+  border: none;
+  display: block;
+  margin: 10px auto;
+}
+#controle400 .infos .infos-subtitle {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos_boxPlan {
+  width: 280px;
+  height: 164px;
+  margin: 0 auto  20px auto;
+  background: #fff;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 20px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title {
+  font-family: "ITCOfficinaSerifBookRegular";
+  color: #666;
+  font-size: 13px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title span {
+  font-family: "ITCOfficinaSerifBold";
+  font-size: 20px;
+  letter-spacing: -1px;
+  line-height: 34px;
+}
+#controle400 .infos .infos_boxPlan .gray {
+  background-color: #f7f7f7;
+  width: 247px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-text {
+  font-family: "ITCOfficinaSerifBookRegular";
+  font-size: 13px;
+  letter-spacing: -0.5px;
+  color: #666;
+}
