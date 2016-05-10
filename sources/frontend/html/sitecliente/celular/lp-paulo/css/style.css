@@ -1,4 +1,4 @@
-#controle400 {
+/*#controle400 {
   width: 100%;
   height: auto;
   display: inline-block;
@@ -12,12 +12,12 @@
   height: 153px;
   text-align: center;
   padding-top: 26px;
-}
+}*/
 #controle400 header .header-title {
   font-size: 19px;
   line-height: 21px;
   font-family: "ITCOfficinaSerifBold";
-  color: #660099;
+  color: #fff;
 }
 #controle400 header .img-icons {
   display: block;
