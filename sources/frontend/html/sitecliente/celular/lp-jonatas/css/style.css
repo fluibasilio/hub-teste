@@ -160,7 +160,7 @@
 }
 #controle400 .cta {
   width: 100%;
-  height: 143px;
+  height: auto;
   background: #fff;
   padding: 25px 0 0 10px;
   overflow: hidden;
@@ -173,6 +173,13 @@
 #controle400 .cta .cta-title {
   font-family: "ITCOfficinaSerifBold";
   color: #660099;
+  font-size: 16px;
+  line-height: 20px;
+  float: left;
+}
+#controle400 .cta .desc {
+  font-family: "TrebuchetMS";
+  color: #333;
   font-size: 16px;
   line-height: 20px;
   float: left;
