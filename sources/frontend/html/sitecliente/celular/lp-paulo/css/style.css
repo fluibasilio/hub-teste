@@ -1,0 +1,261 @@
+/*#controle400 {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+#controle400 * {
+  font-weight: normal;
+  box-sizing: border-box;
+}
+#controle400 header {
+  width: 100%;
+  height: 153px;
+  text-align: center;
+  padding-top: 26px;
+}*/
+#controle400 header .header-title {
+  font-size: 19px;
+  line-height: 21px;
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+}
+#controle400 header .img-icons {
+  display: block;
+  width: 104px;
+  margin: 13px auto 0;
+}
+#controle400 .infos {
+  background: url(../img/bg.jpg) no-repeat scroll 0 0 transparent;
+  background-size: 100%;
+  width: 100%;
+  padding-top: 20px;
+}
+#controle400 .infos .infos-title {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos-title span {
+  color: #ff9900;
+}
+#controle400 .infos .row {
+  width: 282px;
+  height: 1px;
+  background-color: #7b698b;
+  border: none;
+  display: block;
+  margin: 10px auto;
+}
+#controle400 .infos .infos-subtitle {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos_boxPlan {
+  width: 280px;
+  height: 164px;
+  margin: 0 auto  20px auto;
+  background: #fff;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 20px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title {
+  font-family: "ITCOfficinaSerifBookRegular";
+  color: #666;
+  font-size: 13px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title span {
+  font-family: "ITCOfficinaSerifBold";
+  font-size: 20px;
+  letter-spacing: -1px;
+  line-height: 34px;
+}
+#controle400 .infos .infos_boxPlan .gray {
+  background-color: #f7f7f7;
+  width: 247px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-text {
+  font-family: "ITCOfficinaSerifBookRegular";
+  font-size: 13px;
+  letter-spacing: -0.5px;
+  color: #666;
+}
+#controle400 .infos .infos_boxPlan .cost {
+  position: relative;
+  color: #ff9900;
+  font-size: 16px;
+  font-family: "ITCOfficinaSerifBold";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  margin: 10px auto 0;
+  width: 80px;
+}
+#controle400 .infos .infos_boxPlan .cost:before,
+#controle400 .infos .infos_boxPlan .cost:after {
+  content: " ";
+  display: table;
+}
+#controle400 .infos .infos_boxPlan .cost:after {
+  clear: both;
+}
+#controle400 .infos .infos_boxPlan .cost__currency {
+  float: left;
+  font-size: 23px;
+  letter-spacing: -.09em;
+  line-height: .85em;
+}
+#controle400 .infos .infos_boxPlan .cost__integer {
+  float: left;
+  margin-left: .05em;
+  font-size: 25px;
+  letter-spacing: -.1em;
+  line-height: .72em;
+}
+#controle400 .infos .infos_boxPlan .cost__cents {
+  float: left;
+  margin-top: .03em;
+  margin-left: .2em;
+  font-size: 15px;
+  letter-spacing: -.09em;
+  line-height: .7em;
+}
+#controle400 .infos .infos_boxPlan .cost__period {
+  float: left;
+  margin-top: .3em;
+  margin-left: .4em;
+  font-size: 10px;
+  letter-spacing: -.09em;
+  line-height: .7em;
+}
+#controle400 .infos .infos-text {
+  font-family: "ITCOfficinaSerifBookRegular";
+  font-size: 13.5px;
+  line-height: 15px;
+  text-align: center;
+  color: #fff;
+  margin-top: 22px;
+}
+#controle400 .infos .disclaimer {
+  text-align: left;
+  font-size: 9px;
+  line-height: 11px;
+  color: #fff;
+  font-family: "ITCOfficinaSerifBookRegular";
+  margin: 15px 17px;
+}
+#controle400 .infos .disclaimer span {
+  margin-left: 7px;
+}
+#controle400 .infos .disclaimer span a {
+  text-decoration: underline;
+  color: #fff;
+}
+#controle400 .cta {
+  width: 100%;
+  height: 143px;
+  background: #fff;
+  padding: 25px 0 0 10px;
+  overflow: hidden;
+}
+#controle400 .cta .pocket {
+  float: right;
+  width: 92px;
+  margin: 10px 10px 0 0;
+}
+#controle400 .cta .cta-title {
+  font-family: "ITCOfficinaSerifBold";
+  color: #660099;
+  font-size: 16px;
+  line-height: 20px;
+  float: left;
+}
+#controle400 .cta .btn {
+  display: block;
+  float: left;
+  width: 163px;
+  height: 40px;
+  background: #ff9900;
+  border-radius: 5px;
+  margin-top: 20px;
+  color: #fff;
+  font-size: 17px;
+  font-family: "ITCOfficinaSerifBold";
+  text-decoration: none;
+  line-height: 40px;
+}
+#controle400 .cta .btn:before {
+  content: '';
+  background: url(../img/arrow.png);
+  background-size: 19px;
+  width: 19px;
+  height: 19px;
+  display: block;
+  margin: 11px 10px 0 16px;
+  float: left;
+}
+
+#controle400 .infos .infos-title {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos-title span {
+  color: #ff9900;
+}
+#controle400 .infos .row {
+  width: 282px;
+  height: 1px;
+  background-color: #7b698b;
+  border: none;
+  display: block;
+  margin: 10px auto;
+}
+#controle400 .infos .infos-subtitle {
+  font-family: "ITCOfficinaSerifBold";
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  text-transform: none;
+  letter-spacing: -0.5px;
+}
+#controle400 .infos .infos_boxPlan {
+  width: 280px;
+  height: 164px;
+  margin: 0 auto  20px auto;
+  background: #fff;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 20px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title {
+  font-family: "ITCOfficinaSerifBookRegular";
+  color: #666;
+  font-size: 13px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-title span {
+  font-family: "ITCOfficinaSerifBold";
+  font-size: 20px;
+  letter-spacing: -1px;
+  line-height: 34px;
+}
+#controle400 .infos .infos_boxPlan .gray {
+  background-color: #f7f7f7;
+  width: 247px;
+}
+#controle400 .infos .infos_boxPlan .boxPlan-text {
+  font-family: "ITCOfficinaSerifBookRegular";
+  font-size: 13px;
+  letter-spacing: -0.5px;
+  color: #666;
+}
