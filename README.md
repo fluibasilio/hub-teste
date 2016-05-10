@@ -10,9 +10,9 @@ Repositório para testes HUB, entendimento de fluxo
 ### Arquitetura:
 
 ### Versão
-  -  1.1.0 (09/05/2016)
+  -  1.2.0 (10/05/2016)
 
 ### Release notes
 
-  - **1.1.0**:
-    - LP Basilio
+  - **1.2.0**:
+    - LP wesley_jamal
