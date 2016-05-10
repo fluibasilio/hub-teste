@@ -11,13 +11,13 @@
   width: 100%;
   height: 153px;
   text-align: center;
-  padding-top: 26px;
+  /*padding-top: 26px;*/
 }
 #controle400 header .header-title {
   font-size: 19px;
   line-height: 21px;
   font-family: "ITCOfficinaSerifBold";
-  color: #660099;
+  /*color: #660099;*/
 }
 #controle400 header .img-icons {
   display: block;
@@ -47,7 +47,7 @@
   background-color: #7b698b;
   border: none;
   display: block;
-  margin: 10px auto;
+  /*margin: 10px auto;*/
 }
 #controle400 .infos .infos-subtitle {
   font-family: "ITCOfficinaSerifBold";
